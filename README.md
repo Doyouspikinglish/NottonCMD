@@ -13,4 +13,4 @@ features:
   you'll need to type: cls or cls -Terminal
 
 # check version:
-  you'll need to type 
+  you'll need to type: ver
